@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=+3V3 Pin=Cout1-2
+Removed Pin From Net: NetName=+3V3 Pin=J9-1
+Removed Pin From Net: NetName=+3V3 Pin=J10-1
+Removed Pin From Net: NetName=+3V3 Pin=J11-1
+Removed Pin From Net: NetName=+3V3 Pin=J14-1
+Removed Pin From Net: NetName=+3V3 Pin=J15-1
+Removed Pin From Net: NetName=+3V3 Pin=J19-1
+Removed Pin From Net: NetName=+3V3 Pin=L1-1
+Removed Pin From Net: NetName=+3V3 Pin=U12-6
+Added Pin To Net: NetName=+3V3 A Pin=J10-1
+Added Pin To Net: NetName=+3V3 A Pin=J11-1
+Added Pin To Net: NetName=+3V3 A Pin=J14-1
+Added Pin To Net: NetName=+3V3 A Pin=U1-84
+Added Net: Name=+3V3 A
+Added Pin To Net: NetName=+3V3 B Pin=J9-1
+Added Pin To Net: NetName=+3V3 B Pin=J15-1
+Added Pin To Net: NetName=+3V3 B Pin=J19-1
+Added Pin To Net: NetName=+3V3 B Pin=U1-86
+Added Net: Name=+3V3 B
+Added Pin To Net: NetName=NetCout1_2 Pin=Cout1-2
+Added Pin To Net: NetName=NetCout1_2 Pin=L1-1
+Added Pin To Net: NetName=NetCout1_2 Pin=U12-6
+Added Net: Name=NetCout1_2
+Added Rule: Name=Schematic Supply Nets_7
+Added Rule: Name=Schematic Supply Nets_8

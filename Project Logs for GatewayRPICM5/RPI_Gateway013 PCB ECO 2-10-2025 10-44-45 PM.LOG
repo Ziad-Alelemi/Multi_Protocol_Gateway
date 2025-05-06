@@ -1,0 +1,13 @@
+Change Net Name : Old Net Name=NetJ5_1 New Net Name=D2_P
+Change Net Name : Old Net Name=NetJ5_3 New Net Name=D2_N
+Change Net Name : Old Net Name=NetJ5_4 New Net Name=D1_P
+Change Net Name : Old Net Name=NetJ5_6 New Net Name=D1_N
+Change Net Name : Old Net Name=NetJ5_7 New Net Name=D0_P
+Change Net Name : Old Net Name=NetJ5_9 New Net Name=D0_N
+Change Net Name : Old Net Name=NetJ5_10 New Net Name=CK_P
+Change Net Name : Old Net Name=NetJ5_12 New Net Name=CK_N
+Added Class: Name=Rasbperry Pi CM5 Base 
+Added Differential Pair: Name=CK
+Added Differential Pair: Name=D0
+Added Differential Pair: Name=D1
+Added Differential Pair: Name=D2

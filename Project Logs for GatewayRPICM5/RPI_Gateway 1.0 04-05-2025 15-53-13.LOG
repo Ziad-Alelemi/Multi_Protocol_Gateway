@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=MOSI Pin=J6-3
+Removed Pin From Net: NetName=CS1 Pin=J6-5
+Removed Pin From Net: NetName=GPIO1 Pin=J6-6
+Removed Pin From Net: NetName=SCLK Pin=J7-1
+Removed Pin From Net: NetName=MISO Pin=J7-2
+Removed Pin From Net: NetName=CS0 Pin=J7-4
+Removed Pin From Net: NetName=MOSI Pin=J8-3
+Removed Pin From Net: NetName=CS1 Pin=J8-5
+Removed Pin From Net: NetName=GPIO1 Pin=J8-6
+Removed Pin From Net: NetName=SCLK Pin=J12-1
+Removed Pin From Net: NetName=MISO Pin=J12-2
+Removed Pin From Net: NetName=CS0 Pin=J12-4
+Removed Pin From Net: NetName=SCLK Pin=J13-1
+Removed Pin From Net: NetName=MISO Pin=J13-2
+Removed Pin From Net: NetName=CS0 Pin=J13-4
+Removed Pin From Net: NetName=MOSI Pin=J18-3
+Removed Pin From Net: NetName=CS1 Pin=J18-5
+Removed Pin From Net: NetName=GPIO1 Pin=J18-6
+Removed Pin From Net: NetName=GPIO2 Pin=U1-25
+Removed Pin From Net: NetName=CS1 Pin=U1-29
+Removed Pin From Net: NetName=CS0 Pin=U1-31
+Removed Pin From Net: NetName=MOSI Pin=U1-37
+Removed Pin From Net: NetName=SCLK Pin=U1-41
+Removed Pin From Net: NetName=GPIO3 Pin=U1-45
+Removed Pin From Net: NetName=GPIO4 Pin=U1-47
+Removed Pin From Net: NetName=GPIO5 Pin=U1-49
+Removed Pin From Net: NetName=GPIO6 Pin=U1-51
+Added Pin To Net: NetName=CS1 Pin=U1-24
+Added Pin To Net: NetName=GPIO5 Pin=U1-28
+Added Pin To Net: NetName=MOSI Pin=U1-29
+Added Pin To Net: NetName=GPIO6 Pin=U1-31
+Added Pin To Net: NetName=GPIO3 Pin=U1-34
+Added Pin To Net: NetName=SCLK Pin=U1-37
+Added Pin To Net: NetName=CS0 Pin=U1-38
+Added Pin To Net: NetName=GPIO4 Pin=U1-54
+Added Pin To Net: NetName=GPIO2 Pin=U1-55
+Change Net Name : Old Net Name=CS0 New Net Name=NetLabel10
+Change Net Name : Old Net Name=CS1 New Net Name=NetLabel5
+Change Net Name : Old Net Name=GPIO1 New Net Name=NetLabel6
+Change Net Name : Old Net Name=GPIO2 New Net Name=NetLabel18
+Change Net Name : Old Net Name=GPIO3 New Net Name=NetLabel14
+Change Net Name : Old Net Name=GPIO4 New Net Name=NetLabel15
+Change Net Name : Old Net Name=GPIO5 New Net Name=NetLabel16
+Change Net Name : Old Net Name=GPIO6 New Net Name=NetLabel17
+Change Net Name : Old Net Name=MISO New Net Name=NetLabel8
+Change Net Name : Old Net Name=MOSI New Net Name=NetLabel3
+Change Net Name : Old Net Name=SCLK New Net Name=NetLabel7
+Added Pin To Net: NetName=NetLabel1 Pin=J7-1
+Added Pin To Net: NetName=NetLabel1 Pin=J12-1
+Added Pin To Net: NetName=NetLabel1 Pin=J13-1
+Added Pin To Net: NetName=NetLabel1 Pin=U1-50
+Added Net: Name=NetLabel1
+Added Pin To Net: NetName=NetLabel2 Pin=J7-2
+Added Pin To Net: NetName=NetLabel2 Pin=J12-2
+Added Pin To Net: NetName=NetLabel2 Pin=J13-2
+Added Pin To Net: NetName=NetLabel2 Pin=U1-49
+Added Net: Name=NetLabel2
+Added Pin To Net: NetName=NetLabel4 Pin=J7-4
+Added Pin To Net: NetName=NetLabel4 Pin=J12-4
+Added Pin To Net: NetName=NetLabel4 Pin=J13-4
+Added Pin To Net: NetName=NetLabel4 Pin=U1-25
+Added Net: Name=NetLabel4
+Added Pin To Net: NetName=NetLabel9 Pin=J6-3
+Added Pin To Net: NetName=NetLabel9 Pin=J8-3
+Added Pin To Net: NetName=NetLabel9 Pin=J18-3
+Added Pin To Net: NetName=NetLabel9 Pin=U1-58
+Added Net: Name=NetLabel9
+Added Pin To Net: NetName=NetLabel12 Pin=J6-5
+Added Pin To Net: NetName=NetLabel12 Pin=J8-5
+Added Pin To Net: NetName=NetLabel12 Pin=J18-5
+Added Pin To Net: NetName=NetLabel12 Pin=U1-40
+Added Net: Name=NetLabel12
+Added Pin To Net: NetName=NetLabel13 Pin=J6-6
+Added Pin To Net: NetName=NetLabel13 Pin=J8-6
+Added Pin To Net: NetName=NetLabel13 Pin=J18-6
+Added Pin To Net: NetName=NetLabel13 Pin=U1-44
+Added Net: Name=NetLabel13
+Added Pin To Net: NetName=NetU1_30 Pin=U1-30
+Added Net: Name=NetU1_30

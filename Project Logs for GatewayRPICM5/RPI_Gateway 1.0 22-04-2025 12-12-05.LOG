@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VBUS Pin=R16-2
+Removed Pin From Net: NetName=+5 Pin=U7-1
+Added Pin To Net: NetName=VBUS Pin=J4-1
+Added Pin To Net: NetName=+5 Pin=R16-2
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR16_1 Pin=U7-1
+Added Net: Name=NetR16_1
